@@ -4,9 +4,9 @@
 
 ## I'm a Junior FrontEnd Developer!
 - 💪 I like to write code
-- 🎉 i really like web development
+- 🎉 I really like web development
 - 🥅 I am constantly learning new things
-- ⚡ i want to be a react developer
+- ⚡ I want to be a react developer
 - 🤹🏽 I love learning new technologies
 
 ### Connect with me:
